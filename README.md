@@ -1,110 +1,164 @@
-# Hi 👋, I'm Chandra Shekar Yadav
+<h1 align="center">Hi 👋, I'm Chandra Shekar Yadav</h1>
 
-### MBA (HR & Finance) | Mechanical Engineer | Java Full Stack & Automation Testing Enthusiast
+<h3 align="center">Frontend Developer | QA Automation Engineer | React Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ChandraShekarYadavBG&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+Building responsive web applications and reliable test automation solutions.
 </p>
 
-## 🚀 About Me
-
-- 🌱 Currently learning Java Full Stack Development
-- 💻 Working with React.js, Redux, Selenium, and Playwright
-- 🎯 Aspiring Software Developer & QA Automation Engineer
-- 📚 Financial Accounting & Analysis Certified (IIM Bangalore - SWAYAM)
-- 🎓 MBA (HR & Finance)
-- 🛠️ Bachelor of Engineering (Mechanical)
+<p align="center">
+  <a href="https://github.com/ChandraShekarYadavBG">
+    <img src="https://komarev.com/ghpvc/?username=ChandraShekarYadavBG&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### Languages
+🔹 Frontend Developer focused on React.js and JavaScript
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🔹 QA Automation enthusiast with Selenium and Playwright
 
-### Frontend
+🔹 Experience building responsive web applications
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+🔹 Familiar with Java, REST APIs and backend fundamentals
 
-### Testing & Automation
+🔹 Passionate about learning modern web technologies
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+🔹 Interested in Frontend Development, Automation Testing and UI Engineering
 
-### Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chandra-shekar-yadav-b-g">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:princechanduyadav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ChandraShekarYadavBG">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,vite" />
+</p>
+
+---
+
+## 🧪 Testing & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### React Projects
-- Todo App
-- Weather App
-- Expense Tracker
-- React CRUD Application
-- Redux Shopping Cart
+### Frontend Projects
 
-### Java Projects
-- Banking Application
-- Employee Management System
-- Student Management System
+✅ Todo App
 
-### Automation Testing
-- Selenium Automation Framework
-- Playwright Test Automation
-- API Testing with Postman
+✅ Weather App (API Integration)
+
+✅ Expense Tracker
+
+✅ React CRUD Application
+
+✅ Redux Shopping Cart
+
+---
+
+### Testing Projects
+
+✅ Selenium Automation Framework
+
+✅ Playwright UI Automation
+
+✅ API Testing with Postman
 
 ---
 
 ## 📜 Certifications
 
-- Financial Accounting & Analysis – IIM Bangalore (SWAYAM)
-- Java Programming
-- Selenium Automation Testing
-- Playwright Automation Testing
+🏆 Financial Accounting & Analysis – IIM Bangalore (SWAYAM)
+
+🏆 Selenium Automation Testing
+
+🏆 Playwright Automation Testing
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarYadavBG&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarYadavBG&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Java Full Stack Development
-- Spring Boot
-- React.js & Redux Toolkit
-- Selenium WebDriver
-- Playwright Automation
-- Data Structures & Algorithms
+* React.js
+* Redux Toolkit
+* Selenium WebDriver
+* Playwright
+* API Testing
+* Advanced JavaScript
 
 ---
 
-## 📫 Connect With Me
+## 💼 Looking For
 
-- GitHub: https://github.com/ChandraShekarYadavBG
-- LinkedIn: www.linkedin.com/in/chandra-shekar-yadav-b-g
-- Email: princechanduyadav@gmail.com
+Frontend Developer Roles
+
+QA Automation Engineer Roles
+
+React Developer Opportunities
+
+Selenium / Playwright Automation Projects
 
 ---
 
-### 💡 Quote
+## 📫 Contact
 
-"Continuous learning and consistent practice are the keys to success in technology."
+📧 Email: [princechanduyadav@gmail.com](mailto:princechanduyadav@gmail.com)
 
-⭐ Thanks for visiting my profile!
+💼 LinkedIn: [www.linkedin.com/in/chandra-shekar-yadav-b-g](http://www.linkedin.com/in/chandra-shekar-yadav-b-g)
+
+🐙 GitHub: github.com/ChandraShekarYadavBG
+
+---
+
+⭐ Always learning, building, and improving.
