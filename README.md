@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Shekar Yadav</h1>
 
-<h3 align="center">Frontend Developer | QA Automation Engineer | React Enthusiast</h3>
+<h3 align="center">Frontend Developer | QA Automation Engineer | Automation Test Engineer</h3>
 
 <p align="center">
 Building responsive web applications and reliable test automation solutions.
