@@ -211,15 +211,13 @@ Focused on software development and software testing, including Java, web techno
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=tokyonight" alt="Chandra Shekar Yadav GitHub Stats" />
+  <a href="https://github.com/ChandraShekarYadavBG">
+    <img src="https://komarev.com/ghpvc/?username=ChandraShekarYadavBG&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarYadavBG&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  🚀 Building, testing, automating, and learning through hands-on projects.
 </p>
 
 ---
