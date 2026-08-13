@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandra Shekar Yadav</h1>
 
-<h3 align="center">Frontend Developer | QA Automation Engineer | Automation Test Engineer</h3>
+<h3 align="center">QA Engineer | QA Automation Engineer | Automation Test Engineer | SDET</h3>
 
 <p align="center">
-Building responsive web applications and reliable test automation solutions.
+Building reliable test automation solutions and ensuring high-quality software through effective testing.
 </p>
 
 <p align="center">
@@ -16,17 +16,27 @@ Building responsive web applications and reliable test automation solutions.
 
 ## 🚀 About Me
 
-🔹 Frontend Developer focused on React.js and JavaScript
+🔹 QA Engineer focused on Manual and Automation Testing
 
-🔹 QA Automation enthusiast with Selenium and Playwright
+🔹 Completed an **8-month Java Full Stack Development and KodNest Premium Testing Module program** at KodNest Technologies
 
-🔹 Experience building responsive web applications
+🔹 Hands-on with Selenium WebDriver using Java
 
-🔹 Familiar with Java, REST APIs and backend fundamentals
+🔹 Familiar with TestNG for test execution and automation
 
-🔹 Passionate about learning modern web technologies
+🔹 Familiar with API Testing using Postman and REST Assured
 
-🔹 Interested in Frontend Development, Automation Testing and UI Engineering
+🔹 Knowledge of HTML, CSS and JavaScript for web application testing
+
+🔹 Familiar with Functional, Regression, Smoke and Sanity Testing
+
+🔹 Knowledge of SQL for database validation
+
+🔹 Familiar with Maven, Git, GitHub and JIRA
+
+🔹 Passionate about improving software quality through test automation
+
+🔹 Interested in QA Engineering, Automation Testing and SDET roles
 
 ---
 
@@ -48,18 +58,18 @@ Building responsive web applications and reliable test automation solutions.
 
 ---
 
-## 💻 Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ---
 
-## 🎨 Frontend Development
+## 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
@@ -68,53 +78,133 @@ Building responsive web applications and reliable test automation solutions.
 
 <p>
 <img src="https://skillicons.dev/icons?i=selenium" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge&logo=testng&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠 Tools
+## 🛠 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=maven,git,github,vscode,eclipse" />
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🧪 Testing Skills
+
+🔹 Manual Testing
+
+🔹 Functional Testing
+
+🔹 Regression Testing
+
+🔹 Smoke Testing
+
+🔹 Sanity Testing
+
+🔹 UI Testing
+
+🔹 Test Case Design
+
+🔹 Test Scenario Design
+
+🔹 Defect Reporting
+
+🔹 Test Execution
+
+🔹 Automation Testing
+
+🔹 API Testing
 
 ---
 
 ## 📂 Featured Projects
 
-### Frontend Projects
+### 🔹 OrangeHRM Automation Testing
 
-✅ Todo App
+✅ Automated web application test scenarios using Selenium WebDriver
 
-✅ Weather App (API Integration)
+✅ Developed automation scripts using Java
 
-✅ Expense Tracker
+✅ Used TestNG for test execution
 
-✅ React CRUD Application
+✅ Automated login and application validation scenarios
 
-✅ Redux Shopping Cart
+✅ Performed functional and regression testing
 
 ---
 
-### Testing Projects
+### 🔹 Selenium Automation Practice
 
-✅ Selenium Automation Framework
+✅ Selenium WebDriver automation
 
-✅ Playwright UI Automation
+✅ Locators and WebElement handling
 
-✅ API Testing with Postman
+✅ Browser navigation
+
+✅ Dropdowns and alerts
+
+✅ Mouse and keyboard actions
+
+✅ Assertions
+
+✅ TestNG annotations
+
+---
+
+### 🔹 API Testing with Postman
+
+✅ Created and executed API requests using Postman
+
+✅ Tested GET, POST, PUT and DELETE requests
+
+✅ Validated response status codes
+
+✅ Validated response data
+
+✅ Performed API test scenarios
+
+---
+
+### 🔹 REST Assured API Automation
+
+✅ Automated REST API test scenarios using Java
+
+✅ Created API requests using REST Assured
+
+✅ Validated response status codes
+
+✅ Validated response data
+
+✅ Used assertions for response validation
+
+---
+
+## 🎓 Training
+
+### 🏆 KodNest Technologies
+
+**Java Full Stack Development + KodNest Premium Testing Module**
+
+**Duration: 8 Months**
+
+Focused on software development and software testing, including Java, web technologies, Selenium, TestNG, API testing, SQL, Git/GitHub and related development/testing tools.
 
 ---
 
 ## 📜 Certifications
 
-🏆 Financial Accounting & Analysis – IIM Bangalore (SWAYAM)
-
 🏆 Selenium Automation Testing
 
-🏆 Playwright Automation Testing
+🏆 Financial Accounting & Analysis – IIM Bangalore (SWAYAM)
 
 ---
 
@@ -130,24 +220,28 @@ Building responsive web applications and reliable test automation solutions.
 
 ## 🌱 Currently Learning
 
-* React.js
-* Redux Toolkit
-* Selenium WebDriver
-* Playwright
+* Advanced Selenium WebDriver
+* Advanced Java
+* TestNG
 * API Testing
-* Advanced JavaScript
+* SQL
+* Maven
+* Automation Framework Development
+* CI/CD for Test Automation
 
 ---
 
 ## 💼 Looking For
 
-Frontend Developer Roles
+QA Engineer Roles
 
 QA Automation Engineer Roles
 
-React Developer Opportunities
+Automation Test Engineer Roles
 
-Selenium / Playwright Automation Projects
+SDET Opportunities
+
+Software Testing & Quality Engineering Roles
 
 ---
 
@@ -155,10 +249,10 @@ Selenium / Playwright Automation Projects
 
 📧 Email: [princechanduyadav@gmail.com](mailto:princechanduyadav@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/chandra-shekar-yadav-b-g](http://www.linkedin.com/in/chandra-shekar-yadav-b-g)
+💼 LinkedIn: [www.linkedin.com/in/chandra-shekar-yadav-b-g](https://www.linkedin.com/in/chandra-shekar-yadav-b-g)
 
-🐙 GitHub: github.com/ChandraShekarYadavBG
+🐙 GitHub: [github.com/ChandraShekarYadavBG](https://github.com/ChandraShekarYadavBG)
 
 ---
 
-⭐ Always learning, building, and improving.
+⭐ Always learning, testing, automating, and improving software quality.
