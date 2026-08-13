@@ -218,6 +218,10 @@ Focused on software development and software testing, including Java, web techno
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarYadavBG&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
 ---
 
 ## 🌱 Currently Learning
