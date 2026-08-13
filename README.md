@@ -211,9 +211,11 @@ Focused on software development and software testing, including Java, web techno
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=tokyonight" alt="Chandra Shekar Yadav GitHub Stats" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarYadavBG&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarYadavBG&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
