@@ -204,7 +204,6 @@ Focused on software development and software testing, including Java, web techno
 
 🏆 Selenium Automation Testing
 
-🏆 Financial Accounting & Analysis – IIM Bangalore (SWAYAM)
 
 ---
 
