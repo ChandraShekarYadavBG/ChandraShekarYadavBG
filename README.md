@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Shekar Yadav</h1>
 
-<h3 align="center">QA Engineer | QA Automation Engineer | Automation Test Engineer | SDET</h3>
+<h3 align="center">QA Engineer | QA Automation Engineer | Automation Test Engineer | Software Test Engineer </h3>
 
 <p align="center">
 Building reliable test automation solutions and ensuring high-quality software through effective testing.
@@ -24,7 +24,7 @@ Building reliable test automation solutions and ensuring high-quality software t
 
 🔹 Familiar with TestNG for test execution and automation
 
-🔹 Familiar with API Testing using Postman and REST Assured
+🔹 Familiar with Postman 
 
 🔹 Knowledge of HTML, CSS and JavaScript for web application testing
 
@@ -47,7 +47,7 @@ Building reliable test automation solutions and ensuring high-quality software t
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:princechanduyadav@gmail.com">
+<a href="mailto:chandrashekaryadavbg@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -55,7 +55,7 @@ Building reliable test automation solutions and ensuring high-quality software t
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
+ 
 ---
 
 ## 💻 Programming Languages
@@ -122,13 +122,12 @@ Building reliable test automation solutions and ensuring high-quality software t
 
 🔹 Automation Testing
 
-🔹 API Testing
-
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 OrangeHRM Automation Testing
+### 🔹 OpenCart E-Commerce Web Application Automation Testing
+
 
 ✅ Automated web application test scenarios using Selenium WebDriver
 
@@ -160,7 +159,7 @@ Building reliable test automation solutions and ensuring high-quality software t
 
 ---
 
-### 🔹 API Testing with Postman
+### 🔹 Learning  API Testing with Postman
 
 ✅ Created and executed API requests using Postman
 
@@ -169,22 +168,6 @@ Building reliable test automation solutions and ensuring high-quality software t
 ✅ Validated response status codes
 
 ✅ Validated response data
-
-✅ Performed API test scenarios
-
----
-
-### 🔹 REST Assured API Automation
-
-✅ Automated REST API test scenarios using Java
-
-✅ Created API requests using REST Assured
-
-✅ Validated response status codes
-
-✅ Validated response data
-
-✅ Used assertions for response validation
 
 ---
 
@@ -242,15 +225,13 @@ QA Automation Engineer Roles
 
 Automation Test Engineer Roles
 
-SDET Opportunities
-
 Software Testing & Quality Engineering Roles
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [princechanduyadav@gmail.com](mailto:princechanduyadav@gmail.com)
+📧 Email: [chandrashekaryadavbg@gmail.com](mailto:chandrashekaryadavbg@gmail.com)
 
 💼 LinkedIn: [www.linkedin.com/in/chandra-shekar-yadav-b-g](https://www.linkedin.com/in/chandra-shekar-yadav-b-g)
 
