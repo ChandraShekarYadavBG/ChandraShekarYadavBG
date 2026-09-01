@@ -80,7 +80,6 @@ Building reliable test automation solutions and ensuring high-quality software t
 <img src="https://skillicons.dev/icons?i=selenium" />
 <img src="https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge&logo=testng&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
