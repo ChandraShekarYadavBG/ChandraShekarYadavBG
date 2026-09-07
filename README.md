@@ -174,7 +174,7 @@ Building reliable test automation solutions and ensuring high-quality software t
 
 ### 🏆 KodNest Technologies
 
-**Java Full Stack Development + KodNest Premium Testing Module**
+** KodNest Premium Testing Module + Java Full Stack Development **
 
 **Duration: 8 Months**
 
