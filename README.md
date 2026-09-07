@@ -317,17 +317,20 @@ Hands-on experience in:
 
 ## 📈 GitHub Activity
 
+## 📈 GitHub Activity
+
 <p align="center">
-  <a href="https://github.com/ChandraShekarYadavBG">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraShekarYadavBG&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChandraShekarYadavBG">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekarYadavBG&layout=compact&hide_border=true" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraShekarYadavBG&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraShekarYadavBG&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
 
 ---
 
