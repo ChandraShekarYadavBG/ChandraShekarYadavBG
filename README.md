@@ -300,8 +300,6 @@ Hands-on experience in:
 
 🏆 **Premium Testing Internship — KodNest Technologies**
 
-🏆 **Selenium Automation Testing**
-
 ---
 
 ## 🌱 Currently Learning
